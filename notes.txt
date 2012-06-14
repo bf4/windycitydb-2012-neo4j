@@ -1,0 +1,15 @@
+built neography gem, playing with neo4j since 10/2009
+
+@maxdemarzi
+maxdemarzi@gmail.com
+http://github.com/maxdemarzi
+
+is lucene backed
+
+CAP theorom
+
+neo4j - CA
+
+good for highly connected data, recommendations, path finding (how do i know you?)
+
+A* (least cost path)
